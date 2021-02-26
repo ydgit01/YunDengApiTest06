@@ -1,0 +1,6 @@
+# 环境接口的配置信息
+LoginUrl:
+  http://cas.gw.test.com
+
+YunDengUrl:
+ http://yundeng-console.gw.test.com
